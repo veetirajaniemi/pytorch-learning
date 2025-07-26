@@ -1,1 +1,1 @@
-This repository contains code sheets for a "Zero to Mastery" PyTorch course. See more from the website: (https://www.learnpytorch.io/)
+This repository contains code sheets for a "Zero to Mastery" PyTorch for Deep Learning course. It focuses on basic PyTorch functionalities for image classification problems. See more from the website: https://www.learnpytorch.io/
